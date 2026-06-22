@@ -70,7 +70,7 @@ My goal is to become better at problem-solving and prepare strongly for software
 ## 🔗 Connect With Me
 
 - GitHub: [saurabhkun](https://github.com/saurabhkun)
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: [Saurabh Gandhi](https://www.linkedin.com/in/saurabh-gandhi-1421b2318/)
 
 ---
 
