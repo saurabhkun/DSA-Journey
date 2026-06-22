@@ -75,3 +75,19 @@ My goal is to become better at problem-solving and prepare strongly for software
 ---
 
 > Consistency beats intensity. One problem at a time.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/saurabhkun/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/saurabhkun/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/saurabhkun/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
+<!---LeetCode Topics End-->
