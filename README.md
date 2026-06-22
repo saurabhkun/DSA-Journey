@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme_content = """# DSA Problem Solving 🚀
+# DSA Problem Solving 🚀
 
 This repository contains my **Data Structures and Algorithms** problem-solving journey from platforms like **LeetCode** and **GeeksforGeeks**.
 
@@ -77,9 +75,3 @@ My goal is to become better at problem-solving and prepare strongly for software
 ---
 
 > Consistency beats intensity. One problem at a time.
-"""
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme_content, encoding="utf-8")
-
-print(f"Created: {path}") 
