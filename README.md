@@ -81,6 +81,7 @@ My goal is to become better at problem-solving and prepare strongly for software
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhkun/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/saurabhkun/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -89,6 +90,7 @@ My goal is to become better at problem-solving and prepare strongly for software
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhkun/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/saurabhkun/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
@@ -102,12 +104,30 @@ My goal is to become better at problem-solving and prepare strongly for software
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/saurabhkun/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhkun/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/saurabhkun/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhkun/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/saurabhkun/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
+## Array
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhkun/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhkun/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhkun/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhkun/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
