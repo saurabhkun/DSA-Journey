@@ -90,4 +90,24 @@ My goal is to become better at problem-solving and prepare strongly for software
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/saurabhkun/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/saurabhkun/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/saurabhkun/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/saurabhkun/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/saurabhkun/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/saurabhkun/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
